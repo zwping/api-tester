@@ -1,15 +1,19 @@
 {
     "name": "zwping/api-tester",
     "alias": "",
-    "description": "Description...",
+    "description": "Api tester for dcat-admin",
     "type": "library",
-    "keywords": ["dcat-admin", "extension"],
+    "keywords": ["dcat-admin", "extension", "api", "tester"],
     "homepage": "https://github.com/zwping/api-tester",
     "license": "MIT",
     "authors": [
         {
-            "name": "your name",
-            "email": "your email"
+            "name": "zwping",
+            "email": "1101558280@qq.com"
+        },
+        {
+            "name": "z-song",
+            "email": "zosong@126.com"
         }
     ],
     "require": {
